@@ -1,5 +1,5 @@
 # Langlands-Conjecture
-Sam Raskin's published proofs of the Langlands Conjecture. 19-May-2024
+Sam Raskin's published proofs of the Langlands Conjecture. 19-May-2024 [1]
 
 The Langlands program, also known as the Langlands philosophy, is a far-reaching web of conjectures that suggest deep connections between various areas of mathematics, particularly number theory, representation theory, and geometry. 
 
@@ -14,3 +14,7 @@ The Langlands program has also led to significant advances in the Langlands dual
 However, many aspects of the Langlands program remain conjectural, and a complete proof now appears to be withinin reach. The program has been described as a "grand unified theory" of mathematics, and its resolution would undoubtedly be one of the most significant achievements in the history of the field.
 
 While the Langlands program has had a profound impact on number theory and representation theory, its full implications for other areas of mathematics are still being explored. As more cases of the conjectures are proven and new connections are discovered, the Langlands program continues to guide and inspire mathematical research in the 21st century.
+
+### Footnotes
+
+[1] `https://people.mpim-bonn.mpg.de/gaitsgde/GLC/`
